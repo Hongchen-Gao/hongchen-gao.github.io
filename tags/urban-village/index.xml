@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Projects on My Portfolio</title>
-    <link>http://localhost:1313/projects/</link>
-    <description>Recent content in Projects on My Portfolio</description>
+    <title>Urban Village on My Portfolio</title>
+    <link>http://localhost:1313/tags/urban-village/</link>
+    <description>Recent content in Urban Village on My Portfolio</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/urban-village/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fly Against the Light</title>
       <link>http://localhost:1313/projects/fly-against-the-light/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/fly-against-the-light/</guid>
       <description>A surrealist reflection inspired by the CHARLS survey</description>
-    </item>
-    <item>
-      <title>Generative Poster Series</title>
-      <link>http://localhost:1313/projects/project1/</link>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project1/</guid>
-      <description>A series of posters generated using code and randomness.</description>
     </item>
   </channel>
 </rss>
